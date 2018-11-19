@@ -12,3 +12,16 @@ import Foundation
 let a = 7.0
 let areaOfSquare = forSquareWith(sideLength: a)
 print("The area of a square with side length \(a) is \(areaOfSquare)")
+
+// Calculate the area of a rectangle
+let j = 10.0
+let m = 2.0
+let areaOfRectangle = forRectangleWith(length: j, width: m)
+print(areaOfRectangle)
+
+//Area of Parallelogram
+let x = 3.0
+let y = 2.0
+let area
+
+
